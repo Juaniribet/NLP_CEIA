@@ -49,7 +49,7 @@ Utilizando el dataset "clothing_ecommerce_reviews.csv" se realizó un análisis 
 *Sentiment análisis:* clasificar texto a fin de encontrar la intención o el sentimiento
 
 <p align="center">
-<img src='imagenes/LSTM_unit.png' width='382'>  <img src='imagenes/sentiment_analysis.png' width='570'>
+<img src='imagenes/LSTM_unit.png' width='282'>  <img src='imagenes/sentiment_analysis.png' width='420'>
 </p>
 
 ### **Desafío 6:** Sequence to Sequence (Encoder-Decoder)
