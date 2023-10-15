@@ -62,6 +62,8 @@ Construcción de un BOT para responder a preguntas del usuario con base en datas
 
 ***Resultado***
 
+<h4 align="center">
+  
 *Humano:* hello, how are you?
 
 *BOT:* i m fine
@@ -105,3 +107,5 @@ Construcción de un BOT para responder a preguntas del usuario con base en datas
 *Humano:*  Do you have any pet?
 
 *BOT:* yes i have a dog
+
+</h4>
